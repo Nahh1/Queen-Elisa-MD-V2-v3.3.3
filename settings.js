@@ -52,7 +52,7 @@ global.UPLOAD_MAX = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['265997133051'] 
+global.owner = ['254774834043'] 
 //👇 Your Caption ( Image Video )
 global.cap = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃*'
 //👇 Your Bot Name
